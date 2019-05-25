@@ -1,0 +1,11 @@
+/Users/fengcu/Projects/Solution_animal/Practice_animal/bin/Debug/netcoreapp2.2/Practice_animal.deps.json
+/Users/fengcu/Projects/Solution_animal/Practice_animal/bin/Debug/netcoreapp2.2/Practice_animal.runtimeconfig.json
+/Users/fengcu/Projects/Solution_animal/Practice_animal/bin/Debug/netcoreapp2.2/Practice_animal.runtimeconfig.dev.json
+/Users/fengcu/Projects/Solution_animal/Practice_animal/bin/Debug/netcoreapp2.2/Practice_animal.dll
+/Users/fengcu/Projects/Solution_animal/Practice_animal/bin/Debug/netcoreapp2.2/Practice_animal.pdb
+/Users/fengcu/Projects/Solution_animal/Practice_animal/obj/Debug/netcoreapp2.2/Practice_animal.csprojAssemblyReference.cache
+/Users/fengcu/Projects/Solution_animal/Practice_animal/obj/Debug/netcoreapp2.2/Practice_animal.csproj.CoreCompileInputs.cache
+/Users/fengcu/Projects/Solution_animal/Practice_animal/obj/Debug/netcoreapp2.2/Practice_animal.AssemblyInfoInputs.cache
+/Users/fengcu/Projects/Solution_animal/Practice_animal/obj/Debug/netcoreapp2.2/Practice_animal.AssemblyInfo.cs
+/Users/fengcu/Projects/Solution_animal/Practice_animal/obj/Debug/netcoreapp2.2/Practice_animal.dll
+/Users/fengcu/Projects/Solution_animal/Practice_animal/obj/Debug/netcoreapp2.2/Practice_animal.pdb
