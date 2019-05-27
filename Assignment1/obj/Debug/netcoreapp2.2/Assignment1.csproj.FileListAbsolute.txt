@@ -1,0 +1,11 @@
+/Users/fengcu/Projects/Solution1/Assignment1/bin/Debug/netcoreapp2.2/Assignment1.deps.json
+/Users/fengcu/Projects/Solution1/Assignment1/bin/Debug/netcoreapp2.2/Assignment1.runtimeconfig.json
+/Users/fengcu/Projects/Solution1/Assignment1/bin/Debug/netcoreapp2.2/Assignment1.runtimeconfig.dev.json
+/Users/fengcu/Projects/Solution1/Assignment1/bin/Debug/netcoreapp2.2/Assignment1.dll
+/Users/fengcu/Projects/Solution1/Assignment1/bin/Debug/netcoreapp2.2/Assignment1.pdb
+/Users/fengcu/Projects/Solution1/Assignment1/obj/Debug/netcoreapp2.2/Assignment1.csprojAssemblyReference.cache
+/Users/fengcu/Projects/Solution1/Assignment1/obj/Debug/netcoreapp2.2/Assignment1.csproj.CoreCompileInputs.cache
+/Users/fengcu/Projects/Solution1/Assignment1/obj/Debug/netcoreapp2.2/Assignment1.AssemblyInfoInputs.cache
+/Users/fengcu/Projects/Solution1/Assignment1/obj/Debug/netcoreapp2.2/Assignment1.AssemblyInfo.cs
+/Users/fengcu/Projects/Solution1/Assignment1/obj/Debug/netcoreapp2.2/Assignment1.dll
+/Users/fengcu/Projects/Solution1/Assignment1/obj/Debug/netcoreapp2.2/Assignment1.pdb
