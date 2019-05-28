@@ -20,7 +20,11 @@ namespace Assignment1
 
         public override string ToString()
         {
-            return $"#{Id} {Volume} shares: ${Price} (%) {Symbol} \" worth ${Price * Volume}";
+            return $"\nThe company's Id is: {Id}; " +
+            	$"\n The company's Name is: {Name}; " +
+            	$"\n Its volume is: {Volume} and shares: ${Price}; " +
+            	$"\n The Stock ticket is: {Symbol};" +
+            	$"\n It worths {Price * Volume}";
         }
     }
 }
