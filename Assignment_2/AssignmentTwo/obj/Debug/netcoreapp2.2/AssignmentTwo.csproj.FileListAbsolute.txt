@@ -1,0 +1,11 @@
+/Users/fengcu/Projects/AssignmentTwo/AssignmentTwo/obj/Debug/netcoreapp2.2/AssignmentTwo.csprojAssemblyReference.cache
+/Users/fengcu/Projects/AssignmentTwo/AssignmentTwo/obj/Debug/netcoreapp2.2/AssignmentTwo.csproj.CoreCompileInputs.cache
+/Users/fengcu/Projects/AssignmentTwo/AssignmentTwo/obj/Debug/netcoreapp2.2/AssignmentTwo.AssemblyInfoInputs.cache
+/Users/fengcu/Projects/AssignmentTwo/AssignmentTwo/obj/Debug/netcoreapp2.2/AssignmentTwo.AssemblyInfo.cs
+/Users/fengcu/Projects/AssignmentTwo/AssignmentTwo/bin/Debug/netcoreapp2.2/AssignmentTwo.deps.json
+/Users/fengcu/Projects/AssignmentTwo/AssignmentTwo/bin/Debug/netcoreapp2.2/AssignmentTwo.runtimeconfig.json
+/Users/fengcu/Projects/AssignmentTwo/AssignmentTwo/bin/Debug/netcoreapp2.2/AssignmentTwo.runtimeconfig.dev.json
+/Users/fengcu/Projects/AssignmentTwo/AssignmentTwo/bin/Debug/netcoreapp2.2/AssignmentTwo.dll
+/Users/fengcu/Projects/AssignmentTwo/AssignmentTwo/bin/Debug/netcoreapp2.2/AssignmentTwo.pdb
+/Users/fengcu/Projects/AssignmentTwo/AssignmentTwo/obj/Debug/netcoreapp2.2/AssignmentTwo.dll
+/Users/fengcu/Projects/AssignmentTwo/AssignmentTwo/obj/Debug/netcoreapp2.2/AssignmentTwo.pdb

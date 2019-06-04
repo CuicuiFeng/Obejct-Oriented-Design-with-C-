@@ -1,0 +1,10 @@
+1, Microsoft,126.24, MSFT, 10
+2, IBM,132.28, IBM, 20
+3, Apple,178.79, AAPL, 30
+4, Google,1138.61, GOOGL, 40
+5, Starbucks,76.15, SBUX, 50
+6, Lenovi,14, LNVGL, 60
+7, Dell,55.86, DELL, 70
+8, Bank of America,132, BAC, 80
+9, Philips,39.80, PHG, 90
+10, Amazon,1692.69, AMZN, 100

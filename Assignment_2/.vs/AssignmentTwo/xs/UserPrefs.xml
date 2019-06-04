@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{D0D95DAD-41A1-44A3-8510-CFAFA15BE143}|Default">
+  <MonoDevelop.Ide.ItemProperties.AssignmentTwo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AssignmentTwo/Program.cs">
+    <Files>
+      <File FileName="AssignmentTwo/AbstractStock.cs" Line="8" Column="10" />
+      <File FileName="AssignmentTwo/Stock.cs" Line="34" Column="35" />
+      <File FileName="AssignmentTwo/IReadable.cs" Line="9" Column="11" />
+      <File FileName="AssignmentTwo/FileUtil.cs" Line="30" Column="14" />
+      <File FileName="AssignmentTwo/Program.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AssignmentTwo" expanded="True">
+            <Node name="AssignmentTwo" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
