@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{C2695A77-FEED-486C-9308-900E8B1993F3}|Default">
+  <MonoDevelop.Ide.ItemProperties.AssignmentThree PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AssignmentThree/AbstractPerson.cs">
+    <Files>
+      <File FileName="AssignmentThree/Restaurant.cs" Line="28" Column="1" />
+      <File FileName="AssignmentThree/AbstractYelp.cs" Line="12" Column="58" />
+      <File FileName="AssignmentThree/Manager.cs" Line="19" Column="49" />
+      <File FileName="AssignmentThree/AbstractFirm.cs" Line="11" Column="1" />
+      <File FileName="AssignmentThree/Program.cs" Line="17" Column="2" />
+      <File FileName="AssignmentThree/FirmSalon.cs" Line="31" Column="1" />
+      <File FileName="AssignmentThree/FirmRestaurant.cs" Line="29" Column="92" />
+      <File FileName="AssignmentThree/Salon.cs" Line="10" Column="39" />
+      <File FileName="AssignmentThree/AbstractPerson.cs" Line="4" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AssignmentThree" expanded="True">
+            <Node name="AssignmentThree" expanded="True">
+              <Node name="AbstractPerson.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

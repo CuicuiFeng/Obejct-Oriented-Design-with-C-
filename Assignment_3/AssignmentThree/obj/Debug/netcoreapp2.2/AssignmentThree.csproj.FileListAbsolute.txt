@@ -1,0 +1,11 @@
+/Users/fengcu/Projects/AssignmentThree/AssignmentThree/bin/Debug/netcoreapp2.2/AssignmentThree.deps.json
+/Users/fengcu/Projects/AssignmentThree/AssignmentThree/bin/Debug/netcoreapp2.2/AssignmentThree.runtimeconfig.json
+/Users/fengcu/Projects/AssignmentThree/AssignmentThree/bin/Debug/netcoreapp2.2/AssignmentThree.runtimeconfig.dev.json
+/Users/fengcu/Projects/AssignmentThree/AssignmentThree/bin/Debug/netcoreapp2.2/AssignmentThree.dll
+/Users/fengcu/Projects/AssignmentThree/AssignmentThree/bin/Debug/netcoreapp2.2/AssignmentThree.pdb
+/Users/fengcu/Projects/AssignmentThree/AssignmentThree/obj/Debug/netcoreapp2.2/AssignmentThree.csprojAssemblyReference.cache
+/Users/fengcu/Projects/AssignmentThree/AssignmentThree/obj/Debug/netcoreapp2.2/AssignmentThree.csproj.CoreCompileInputs.cache
+/Users/fengcu/Projects/AssignmentThree/AssignmentThree/obj/Debug/netcoreapp2.2/AssignmentThree.AssemblyInfoInputs.cache
+/Users/fengcu/Projects/AssignmentThree/AssignmentThree/obj/Debug/netcoreapp2.2/AssignmentThree.AssemblyInfo.cs
+/Users/fengcu/Projects/AssignmentThree/AssignmentThree/obj/Debug/netcoreapp2.2/AssignmentThree.dll
+/Users/fengcu/Projects/AssignmentThree/AssignmentThree/obj/Debug/netcoreapp2.2/AssignmentThree.pdb
