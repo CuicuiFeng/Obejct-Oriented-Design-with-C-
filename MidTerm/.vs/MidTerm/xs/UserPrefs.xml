@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{233ED150-3DB5-4F40-B09E-D4DFAE07B019}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MidTerm/AbstractBusiness.cs">
+    <Files>
+      <File FileName="MidTerm/Company.cs" Line="34" Column="30" />
+      <File FileName="MidTerm/Employee.cs" Line="21" Column="21" />
+      <File FileName="MidTerm/Ibm.cs" Line="55" Column="32" />
+      <File FileName="MidTerm/Person.cs" Line="24" Column="10" />
+      <File FileName="MidTerm/IBillable.cs" Line="8" Column="11" />
+      <File FileName="MidTerm/AbstractBusiness.cs" Line="19" Column="44" />
+      <File FileName="MidTerm/AbstractCompanyFactory.cs" Line="4" Column="21" />
+      <File FileName="MidTerm/AbstractPerson.cs" Line="8" Column="26" />
+      <File FileName="MidTerm/AbstractPersonFactory.cs" Line="1" Column="1" />
+      <File FileName="MidTerm/Client.cs" Line="6" Column="24" />
+      <File FileName="MidTerm/CustomerOffering.cs" Line="9" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MidTerm" expanded="True">
+            <Node name="MidTerm" expanded="True">
+              <Node name="AbstractBusiness.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MidTerm PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
