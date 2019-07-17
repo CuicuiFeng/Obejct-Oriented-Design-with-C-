@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model IEnumerable<FinalProject.Models.Book>
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to Book Management System.</h1>
+    <p>You can enter the book information below. </p>
+    <p>This is the catalog of all books. </p>
+    <ul>
+        <li style="font-weight:bold">Id-Name-Genre-Author</li>
+        @foreach (Book book in Model)
+    {
+        <li>@book.Id-@Html.ActionLink(book.Name,"Detaile",new { id = book.Id })</li>
+    }
+    </ul>
+</div>

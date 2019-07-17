@@ -1,0 +1,51 @@
+﻿<Properties StartupConfiguration="{868CEE68-9583-4984-B379-BFD47633715B}|Default">
+  <MonoDevelop.Ide.ItemProperties.FinalProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../Library/Frameworks/Mono.framework/Versions/5.18.1/lib/mono/msbuild/15.0/bin/Roslyn/Microsoft.CSharp.Core.targets">
+    <Files>
+      <File FileName="FinalProject/Views/Home/Index.cshtml" Line="18" Column="1" />
+      <File FileName="FinalProject/Views/Home/Display.cshtml" Line="7" Column="5" />
+      <File FileName="FinalProject/Views/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="FinalProject/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="FinalProject/Views/Shared/Error.cshtml" Line="1" Column="1" />
+      <File FileName="FinalProject/Views/Shared/_ValidationScriptsPartial.cshtml" Line="1" Column="1" />
+      <File FileName="FinalProject/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
+      <File FileName="FinalProject/Views/Shared/_CookieConsentPartial.cshtml" Line="22" Column="21" />
+      <File FileName="FinalProject/Models/ErrorViewModel.cs" Line="11" Column="2" />
+      <File FileName="FinalProject/appsettings.json" Line="1" Column="1" />
+      <File FileName="FinalProject/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="FinalProject/Program.cs" Line="17" Column="1" />
+      <File FileName="FinalProject/Startup.cs" Line="64" Column="2" />
+      <File FileName="FinalProject/Controllers/HomeController.cs" Line="13" Column="31" />
+      <File FileName="FinalProject/Properties/launchSettings.json" Line="8" Column="6" />
+      <File FileName="FinalProject/Models/Book.cs" Line="4" Column="2" />
+      <File FileName="FinalProject/Views/Home/Detaile.cshtml" Line="13" Column="7" />
+      <File FileName="../../../../Library/Frameworks/Mono.framework/Versions/5.18.1/lib/mono/msbuild/15.0/bin/Roslyn/Microsoft.CSharp.Core.targets" Line="33" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FinalProject" expanded="True">
+            <Node name="FinalProject" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+                <Node name="SdkDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
