@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Display Page";
+}
+@model IEnumerable<FinalProject.Models.Book>
+
+<table width="1000" border="1">
+    @foreach (Book book in Model)
+    {
+        <tr>
+            <td>@book.Genre:</td>
+            <td>@book.Id</td>
+            <td>@Html.ActionLink(book.Name, "Detaile", new { id = book.Id })</td>
+            <td>@book.Author </td>
+        </tr>
+    }
+</table>

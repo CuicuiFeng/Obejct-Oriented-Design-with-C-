@@ -29,3 +29,6 @@
 /Users/fengcu/Projects/FinalProject/FinalProject/obj/Debug/netcoreapp2.2/FinalProject.csprojAssemblyReference.cache
 /Users/fengcu/Projects/FinalProject/FinalProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Display.g.cshtml.cs
 /Users/fengcu/Projects/FinalProject/FinalProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Detaile.g.cshtml.cs
+/Users/fengcu/Projects/FinalProject/FinalProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Add.g.cshtml.cs
+/Users/fengcu/Projects/FinalProject/FinalProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/CompareByPrice.g.cshtml.cs
+/Users/fengcu/Projects/FinalProject/FinalProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Create.g.cshtml.cs

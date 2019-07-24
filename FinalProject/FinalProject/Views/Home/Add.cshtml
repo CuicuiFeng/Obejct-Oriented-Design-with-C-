@@ -1,0 +1,80 @@
+﻿@{
+    ViewData["Title"] = "Add Book Page";
+}
+@model IEnumerable<FinalProject.Models.Book>
+
+<script src="~/Scripts/jquery-3.1.1.js"></script>
+<script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+
+<div class="form-horizontal">
+    @using (Html.BeginForm("Create", "Home", FormMethod.Post))
+    {
+        <h3>You can enter the book information below. </h3>
+
+        <table length="300" width="800" border="1">
+            <tr>
+                <td colspan="2" style="background-color:rgba(230,123,185,0.5);" class="text-left">
+                    <h4> Please enter the details  here:</h4>
+                </td>
+            </tr>
+
+            <tr>
+                <td style="background-color:#eeeeee;height:50px;width:800px;vertical-align:top;" class="text-left">
+                    Book Id:
+                </td>
+                <td style="background-color:#eeeeee;height:50px;width:800px;vertical-align:top;" class="text-left">
+                    @Html.TextBox("Id")
+                </td>
+            </tr>
+            <tr>
+                <td style="background-color:#eeeeee;height:50px;width:800px;vertical-align:top;" class="text-left">
+                    Book Name:
+                </td>
+                <td style="background-color:#eeeeee;height:50px;width:800px;vertical-align:top;" class="text-left">
+                    @Html.TextBox("Name")
+                </td>
+            </tr>
+            <tr>
+                <td style="background-color:#eeeeee;height:50px;width:800px;vertical-align:top;" class="text-left">
+                    Genre:
+                </td>
+                <td style="background-color:#eeeeee;height:50px;width:800px;vertical-align:top;" class="text-left">
+                    @Html.TextBox("Genre")
+                </td>
+            </tr>
+            <tr>
+                <td style="background-color:#eeeeee;height:50px;width:800px;vertical-align:top;" class="text-left">
+                    Author:
+                </td>
+                <td style="background-color:#eeeeee;height:50px;width:800px;vertical-align:top;" class="text-left">
+                    @Html.TextBox("Author")
+                </td>
+            </tr>
+            <tr>
+                <td style="background-color:#eeeeee;height:50px;width:800px;vertical-align:top;" class="text-left">
+                    Price:
+                </td>
+                <td style="background-color:#eeeeee;height:50px;width:800px;vertical-align:top;" class="text-left">
+                    @Html.TextBox("Price")
+                </td>
+            </tr>
+            <tr>
+                <td style="background-color:#eeeeee;height:50px;width:800px;vertical-align:top;" class="text-left">
+                    Description:
+                </td>
+                <td style="background-color:#eeeeee;height:50px;width:800px;vertical-align:top;" class="text-left">
+                    @Html.TextArea("Description")
+                </td>
+            </tr>
+
+            <tr colspan="2" style="background-color:rgba(230,123,185,0.5);">
+                <td>
+                    <input type="submit" name="submit" value="Add Book" />
+                </td>
+                <td>
+                    <a href="/Home/Index">Back </a>
+                </td>
+            </tr>
+        </table>
+    }
+</div>

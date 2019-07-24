@@ -9,6 +9,10 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.EntityFrameworkCore;
+//using FinalProject.DAL;
+using FinalProject.Models;
+using Microsoft.AspNetCore.Identity;
 
 namespace FinalProject
 {
@@ -31,7 +35,8 @@ namespace FinalProject
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
 
-
+            //services.AddDbContext<MysqlContext>(options => options.UseMySQL(Configuration.GetConnectionString("mysqlConnection")));
+            //services.AddIdentity<ApplicationUser, IdentityRole>().AddEntityFrameworkStores<MysqlContext>().AddDefaultTokenProviders(); 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }
 
@@ -52,6 +57,7 @@ namespace FinalProject
             app.UseHttpsRedirection();
             app.UseStaticFiles();
             app.UseCookiePolicy();
+            app.UseIdentity();
 
             app.UseMvc(routes =>
             {

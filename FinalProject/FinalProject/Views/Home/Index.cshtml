@@ -5,13 +5,42 @@
 
 <div class="text-center">
     <h1 class="display-4">Welcome to Book Management System.</h1>
-    <p>You can enter the book information below. </p>
-    <p>This is the catalog of all books. </p>
-    <ul>
-        <li style="font-weight:bold">Id-Name-Genre-Author</li>
+    <table width="1000" border="1">
+        <tr width="1000" >
+            <td colspan="2" style="background-color:rgba(230,123,185,0.5);">
+                <p>This is the catalog of all books.</p>
+            </td>
+        </tr>
+    </table>
+
+    <table width="1000" border="1">
         @foreach (Book book in Model)
-    {
-        <li>@book.Id-@Html.ActionLink(book.Name,"Detaile",new { id = book.Id })</li>
-    }
-    </ul>
+        {
+        <tr>
+            <td>@book.Genre:</td>
+            <td>@book.Id</td>
+            <td>@Html.ActionLink(book.Name, "Detaile", new { id = book.Id })</td>
+            <td>@book.Author </td>
+        </tr>
+
+        }
+    </table>
+      
+    <table width="1000" border="1">
+        <tr>
+            <td colspan="2" style="background-color:rgba(230,123,185,0.5);">
+                <a href="/Home/Add">Add Book</a>
+            </td>
+            <td colspan="2" style="background-color:rgba(230,123,185,0.5);">
+                <button type="submit" value="SortByGenre">Sort by Genre</button>
+            </td>
+            <td colspan="2" style="background-color:rgba(230,123,185,0.5);">
+                <button type="submit" value="SortByAuthor">Sort by Author</button>
+            </td>
+            <td colspan="2" style="background-color:rgba(230,123,185,0.5);">
+                <a href="/Home/CompareByPrice">Sort by Price</a>
+            </td>
+        </tr>
+    </table>
 </div>
+

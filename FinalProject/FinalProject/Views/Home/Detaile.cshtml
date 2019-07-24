@@ -1,13 +1,36 @@
 ﻿@{
-    ViewData["Title"] = "detaile";
+    ViewData["Title"] = "Book Details";
 }
 @model FinalProject.Models.Book
 
-<div class="text-center">
+<div>
     <h1>@ViewData["Title"]</h1>
     <h2>This is the concrete information.</h2>
-    <p>ID: @Model.Id</p>
-    <p>Name: @Model.Name</p>
-    <p>Genre: @Model.Genre</p>
-    <p>Author: @Model.Author</p>
+    <table colspan="2" style="background-color:rgba(230,123,185,0.5);" border="1">
+        <tr>
+            <td>ID: </td>
+            <td>@Model.Id</td>
+        </tr>
+        <tr>
+            <td>Name:</td>
+            <td>@Model.Name</td>  
+        </tr>
+        <tr>
+            <td>Genre: </td>
+            <td>@Model.Genre</td>
+        </tr>
+        <tr>
+            <td>Author:</td>
+            <td>@Model.Author</td> 
+        </tr>
+        <tr>
+            <td>Price:</td>
+            <td>@Model.Price</td>  
+        </tr>
+        <tr>
+            <td>Description: </td>
+            <td>@Model.Description</td> 
+        </tr>
+    </table>
+
 </div>
