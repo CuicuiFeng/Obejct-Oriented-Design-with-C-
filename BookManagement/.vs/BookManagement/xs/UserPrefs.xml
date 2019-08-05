@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{B03536CE-D720-422B-80E5-9DA87A6DC1FB}|Default">
+  <MonoDevelop.Ide.ItemProperties.BookManagement PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BookManagement/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="BookManagement/appsettings.json" Line="10" Column="1" />
+      <File FileName="BookManagement/Startup.cs" Line="1" Column="1" />
+      <File FileName="BookManagement/Program.cs" Line="25" Column="1" />
+      <File FileName="BookManagement/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="BookManagement/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="BookManagement/Web.config" Line="4" Column="64" />
+      <File FileName="BookManagement/Controllers/HomeController.cs" Line="19" Column="10" />
+      <File FileName="BookManagement/Views/Home/Index.cshtml" Line="13" Column="32" />
+      <File FileName="BookManagement/DAL/BookContext.cs" Line="3" Column="19" />
+      <File FileName="BookManagement/DAL/BookInitializer.cs" Line="16" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BookManagement" expanded="True">
+            <Node name="BookManagement" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="DAL" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
