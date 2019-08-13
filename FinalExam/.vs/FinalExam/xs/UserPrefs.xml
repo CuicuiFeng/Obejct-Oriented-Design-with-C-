@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{D0527831-4439-49C1-9A44-AEA007C8D0C9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FinalExam/Student.cs">
+    <Files>
+      <File FileName="FinalExam/Program.cs" Line="16" Column="40" />
+      <File FileName="FinalExam/FinalExam.cs" Line="378" Column="53" />
+      <File FileName="FinalExam/BookInfoEventArgs.cs" Line="2" Column="1" />
+      <File FileName="FinalExam/CarDealer.cs" Line="6" Column="38" />
+      <File FileName="FinalExam/Student.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FinalExam" expanded="True">
+            <Node name="FinalExam" expanded="True">
+              <Node name="Student.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FinalExam PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
