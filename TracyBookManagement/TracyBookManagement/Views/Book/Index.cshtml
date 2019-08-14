@@ -1,0 +1,52 @@
+﻿@{
+    ViewBag.Title = "Student Page";
+}
+@model IEnumerable<TracyBookManagement.Models.Book>
+
+@using (Html.BeginForm())
+{
+    <br />
+    <br />
+    <br />
+    <p>
+        Find by Name: @Html.TextBox("SearchString")
+        <input type="submit" value="Search" />
+    </p>
+    <br />
+}
+
+<table length="700" width="800" border="1">
+    <tr>
+        <th>
+            @Html.ActionLink("Name", "Index", new { sortOrder = ViewBag.NameSortParm })
+        </th>
+        <th>
+            @Html.ActionLink("Genre", "Index", new { sortOrder = ViewBag.GenreSortParm })
+        </th>
+        <th>
+            @Html.ActionLink("Author", "Index", new { sortOrder = ViewBag.AuthorSortParm })
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var book in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => book.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => book.Genre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => book.Author)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = book.ID }) |
+                @Html.ActionLink("Details", "Details", new { id = book.ID }) |
+                @Html.ActionLink("Delete", "Delete", new { id = book.ID })
+            </td>
+        </tr>
+    }
+</table>
+
